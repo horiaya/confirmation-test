@@ -1,0 +1,48 @@
+.header{
+    background-color: white;
+}
+
+.header__inner{
+    margin: 20px auto;
+    max-width: 1230px;
+    display: flex;
+}
+
+.header__logo{
+    color: gray;
+    text-decoration: none;
+    font-size: 24px;
+    text-align: center;
+}
+
+.header-nav{
+    background-color: rgb(221, 215, 210);
+    border: solid 2px rgb(161, 133, 114);
+    display: inline-block;
+}
+
+.header-nav__link{
+    text-decoration: none;
+    color: rgb(161, 133, 114);
+    margin: 1px 15px;
+}
+
+.register-form__heading h2{
+    font-weight: 100;
+}
+
+.register-form__content{
+    display: inline-block;
+    text-align: center;
+}
+
+.form{
+    background-color: blue;
+    max-width: 1230px;
+}
+
+.form__group{
+    background-color: aquamarine;
+}
+
+
